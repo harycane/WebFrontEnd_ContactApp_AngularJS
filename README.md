@@ -1,0 +1,2 @@
+# WebFrontEnd_ContactApp_AngularJS
+A simple contact application using AngularJS that includes locating address entered in the form in the google maps, and file upload, persisting the data in the local storage of the browser. In order to run the application, npm is required. Running the following commands: "sudo npm install" and "sudo npm start" has to be run to install the requisite node modules and start the server at localhost which can then be navigated to, to run the application.
